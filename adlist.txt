@@ -9,3 +9,6 @@
 0.0.0.0 ufathai24a.com
 0.0.0.0 ufafc24s.com
 0.0.0.0 image.cdend.com
+0.0.0.0 two.manga168.net
+0.0.0.0 amz-cdn.manga168.net
+0.0.0.0 one.manga168.net
