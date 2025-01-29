@@ -12,3 +12,5 @@
 0.0.0.0 two.manga168.net
 0.0.0.0 amz-cdn.manga168.net
 0.0.0.0 one.manga168.net
+0.0.0.0 amz-cdn3.manga168.net
+0.0.0.0 1.bp.blogspot.com
